@@ -1,6 +1,6 @@
-# 🏦 Bank Transfer Transaction Project (MySQL + Python)
+#  Bank Transfer Transaction Project (MySQL + Python)
 
-## 🔧 Description
+##  Description
 
 This project demonstrates **safe money transfer logic** using `mysql.connector` in Python, implementing:
 
@@ -9,14 +9,14 @@ This project demonstrates **safe money transfer logic** using `mysql.connector` 
 - Rollback if failure occurs
 - Full ACID-compliant logic
 
-## 📁 Project Structure
+##  Project Structure
 
 | File | Purpose |
 |------|---------|
 | `bank_transfer_transaction.py` | Main logic for transferring ₹500 between two accounts |
 | `README.md` | Project description and usage guide |
 
-## 📦 MySQL Table Setup
+##  MySQL Table Setup
 
 Use this to create the database table:
 
