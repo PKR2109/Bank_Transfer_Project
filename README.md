@@ -8,7 +8,6 @@ This project demonstrates **safe money transfer logic** using `mysql.connector` 
 - Savepoint creation
 - Rollback if failure occurs
 - Full ACID-compliant logic
-- Clean code structure ready for production or training
 
 ## 📁 Project Structure
 
