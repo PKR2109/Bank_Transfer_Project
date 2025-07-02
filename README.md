@@ -15,7 +15,6 @@ This project demonstrates **safe money transfer logic** using `mysql.connector` 
 | File | Purpose |
 |------|---------|
 | `bank_transfer_transaction.py` | Main logic for transferring ₹500 between two accounts |
-| `schema.sql` | SQL file to create and populate the `accounts` table |
 | `README.md` | Project description and usage guide |
 
 ## 📦 MySQL Table Setup
